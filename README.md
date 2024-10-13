@@ -6,3 +6,10 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Todo
+
+- [] Сделать loader
+- [] Пофиксить баг с изменениям состояния при редактировании
+- [] Сделать так чтобы при выполненной таске нельзя было редактировать, только удалять
+- [] Добавить разделение на выполненные, не выполненные, все таски
