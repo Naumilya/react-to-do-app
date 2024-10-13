@@ -1,0 +1,16 @@
+#root {
+	max-width: 740px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+h1 {
+	color: var(--primary-color);
+}
+
+.task-list {
+	margin-top: 30px;
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}

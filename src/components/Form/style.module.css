@@ -1,0 +1,14 @@
+.form {
+	margin-top: 10px;
+	display: flex;
+	gap: 10px;
+}
+
+.formInput {
+	padding: 8px 15px;
+	outline: none;
+	border: 1px solid var(--devider-color);
+	background: transparent;
+	color: var(--color-text);
+	width: 100%;
+}
